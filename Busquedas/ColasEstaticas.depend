@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1698150286 source:d:\colasestaticas\main.cpp
+	<iostream>
+	"Cola.h"
+	<stdlib.h>
+	<conio.h>
+
+1698192524 source:d:\colasestaticas\cola.cpp
+	"Cola.h"
+	<iostream>
+	<string.h>
+
+1698194286 d:\colasestaticas\cola.h
+	<iostream>
+
